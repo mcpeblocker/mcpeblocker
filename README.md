@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">🤓 Alisher Ortiqov</h1>
+<h2 align="center">Junior web dev (Loves Backend)</h2>
 
-<!--
-**MCPEBlocker/mcpeblocker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="./dog welcome.gif" /></div>
+<div align="center"><img src="./welcome-gif-png-15.gif" alt="WELCOME" /></div>
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- ReactJS + NextJS
+- NodeJS
+- Express
+- Typescript
+- NestJS
+- MySQL
+- PostgreSQL
+- MongoDB
